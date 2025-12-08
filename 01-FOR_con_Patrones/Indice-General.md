@@ -13,8 +13,9 @@
 ## 📖 Índice de Patrones
 Haz clic en el enlace de cada patrón para acceder a su documentación detallada, el reto del ejercicio y el código de ejemplo.
 
-  01. Triangulo cargado a la Izquierda ()
-  02. Triangulo 
+  01. Triangulo cargado a la Izquierda (Triangulos/01-Triangulo_Izquierda/Ejercicio-Triangulo_Izquierda.md)
+  02. Triangulo cargado a la Derecha (Triangulos/01-Triangulo_Derecha/Ejercicio-Triangulo_Derecha.md)
+  03. Triangulo cargado a la Izquierda Invertido (Triangulos/03-Triangulo_Izq_Invertido/Ejercicio-Triangulo_Izq_Invertido.md)
 
 <br>
 <br>
