@@ -16,6 +16,8 @@ Haz clic en el enlace de cada patrón para acceder a su documentación detallada
   1. [Triangulo cargado a la Izquierda](Triangulos/01-Triangulo_Izquierda/Ejercicio-Triangulo_Izquierda.md)
   2. [Triangulo cargado a la Derecha](Triangulos/02-Triangulo_Derecha/Ejercicio-Triangulo_Derecha.md)
   3. [Triangulo cargado a la Izquierda Invertido](Triangulos/03-Triangulo_Izq_Invertido/Ejercicio-Triangulo_Izq_Invertido.md)
+  4. [Triangulo cargado a la Derecha Invertido](Triangulos/04-Triangulo_Der_Invertido/Ejercicio-Triangulo_Der_Invertido.md)
+  5. [Triangulo centrado o Piramide](Triangulos/05-Triangulo_Centro/Ejercicio-Triangulo_Centro.md)
 
 <br>
 <br>
