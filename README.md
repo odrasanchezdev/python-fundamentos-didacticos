@@ -12,16 +12,16 @@
 ## Estado del repositorio 📊️
 <div align="center" style="display: inline_block">
 <img src="https://img.shields.io/badge/Dificultad-Principiante-071739?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mantenimiento-Activo-071739?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Verificaciones-Unitarias-071739?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mantenimiento-Activo-E3C39D?style=for-the-badge" />
 </div>
 <br>
 <br>
 
 ## Tecnologías utilizadas 🔨
 <div align="center" style="display: inline_block">
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img alt="Spyder IDE" src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
+<img alt="Spyder IDE" src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge" />
 </div>
 <br>
 
